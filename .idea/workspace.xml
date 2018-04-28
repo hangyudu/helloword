@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ddb5d62b-ee66-4b88-865e-d3c02baac92b" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk15on_1_59.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/blockchain-java.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/blockchain-part1/blockchain-part1.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/blockchain-part2/blockchain-part2.iml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/blockchain-part1/target/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -206,7 +198,7 @@
       <option name="presentableId" value="Default" />
       <updated>1523696855106</updated>
       <workItem from="1523696858368" duration="23000" />
-      <workItem from="1524900908005" duration="897000" />
+      <workItem from="1524900908005" duration="1350000" />
     </task>
     <task id="LOCAL-00001" summary="debug">
       <created>1524900972635</created>
@@ -219,7 +211,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="920000" />
+    <option name="totallyTimeSpent" value="1373000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
