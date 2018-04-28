@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ddb5d62b-ee66-4b88-865e-d3c02baac92b" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="ddb5d62b-ee66-4b88-865e-d3c02baac92b" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/blockchain-part1/target/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/blockchain-part2/target/" />
